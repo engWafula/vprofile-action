@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: kopsvprofile1.wafula-allan.site
     http:
       paths:
       - path: /
